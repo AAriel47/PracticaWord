@@ -1,4 +1,4 @@
-﻿## README
+## README
 
 Practica de Microsoft Word y sus principales funcionalidades.
 
@@ -17,6 +17,11 @@ Temas a tratar en estas **práctica:**
  9. etc
 *Todas estás tareas y archivos generados serán almacenados en github* 
 
+***Lo principal para tener éxito en este nuevo proyecto es practicar...***
 
 
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ3NTYyMTc3MV19
+-->

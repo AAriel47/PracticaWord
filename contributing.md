@@ -4,7 +4,7 @@
 
 Este documento contiene pautas para ayudarte a contribuir de forma efectiva. Por favor, tómate un momento para leerlo antes de abrir un *issue* o un *pull request*.
 
-## 📌 Antes de comenzar:
+## 📌 Antes de comenzar
 
 - Asegúrate de que tu idea no haya sido discutida ya. Revisa los [issues abiertos y cerrados](../../issues).
 - Si es un bug, verifica que aún exista en la versión más reciente.
@@ -58,8 +58,9 @@ Al participar, aceptas seguir nuestro [Código de Conducta](CODE_OF_CONDUCT.md).
  - [x] Has trabajado bien
  - [x] Te comprometiste con este proyecto
  - [x] Aprendiste lo necesario
+ - [x] No te desanimes, sigue contribuyendo
 
 ¡Gracias nuevamente por tu contribución! 🙌
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTczNzk2MF19
+eyJoaXN0b3J5IjpbMTU1ODQyNzMxOF19
 -->

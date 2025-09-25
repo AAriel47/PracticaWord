@@ -4,7 +4,7 @@
 
 Este documento contiene pautas para ayudarte a contribuir de forma efectiva. Por favor, tómate un momento para leerlo antes de abrir un *issue* o un *pull request*.
 
-## 📌 Antes de comenzar
+## 📌 Antes de comenzar:
 
 - Asegúrate de que tu idea no haya sido discutida ya. Revisa los [issues abiertos y cerrados](../../issues).
 - Si es un bug, verifica que aún exista en la versión más reciente.
